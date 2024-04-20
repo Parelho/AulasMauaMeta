@@ -14,7 +14,7 @@ public class Teste {
         a1.curar(p1);
         // a1.curar(p1);
         // a1.curar(p1);
-        // a1.curar(i1);
+        // a1.curar(boss);
         boss.atacar(p1);
     }
 }
